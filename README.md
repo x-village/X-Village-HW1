@@ -1,6 +1,8 @@
 X-Village Homework1
 ===
 
+Homework1 程式模板為 matrix.py，可以從這份檔案做修改。
+
 # 作業敘述
 請設計一個數學中常使用的資料結構 --- 矩陣(Matrix)。  
 利用課堂中所學的 Class，定義一個類別，叫做 Matrix，此類別須提供一下功能：  
