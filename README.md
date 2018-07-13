@@ -14,7 +14,7 @@ Homework1 程式模板為 matrix.py，可以從這份檔案做修改。
     4. 矩陣轉置 (30 分)  
     5. 矩陣相乘 (40 分)  
 * **加分題**  
-    1. 在做矩陣運算時，能夠判斷兩兩矩陣的大小是否合法可以做運算  
+    1. 在做矩陣運算時，能夠判斷兩兩矩陣的大小是否合法可以做運算 (10分）
     > 不合法: 顯示錯誤訊息，但是程式可以繼續執行，不會終斷  
 
 ```
@@ -32,6 +32,28 @@ Homework1 程式模板為 matrix.py，可以從這份檔案做修改。
 
 * 矩陣運算不合法  
 ![](https://i.imgur.com/Fle5XHT.png)
+
+# 如何繳交作業
+* 請先將作業的 [repo](https://github.com/x-village/X-Village-HW1) Fork 到自己的 Github 中  
+
+![](https://i.imgur.com/ds76d8u.png)
+
+--- 
+
+![](https://i.imgur.com/uHYwwAa.png)
+
+* git clone 自己 Github 中的作業 Repo 到本地端電腦中  
+
+![](https://i.imgur.com/lRD7ptr.png)
+
+---
+
+![](https://i.imgur.com/6d1qPK6.png)
+
+* 完成 matrix.py 這個檔案  
+* 完成作業需求後，將最終的檔案 git push 到 Github 上  
+
+![](https://i.imgur.com/ysKY9m1.png)
 
 # 備註
 ```
